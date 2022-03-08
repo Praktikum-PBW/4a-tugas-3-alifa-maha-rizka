@@ -1,0 +1,42 @@
+.btn{
+    background-color: #e9498c;
+    color: white;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;   
+    margin-top: 20px; 
+}
+
+ .tabel{
+    background-color: antiquewhite;
+    margin: 10px;
+    border-style: double;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: Poppins;
+    font-size: smaller;
+ }
+
+ .header{
+     color: #e9498c;
+     padding-bottom: 20px;
+     font-size: larger;
+ }
+
+ .hsl{
+     background-color: antiquewhite;
+     border-style: unset;
+     font-family: Poppins;
+     font-weight: bold;   
+ }
+
+ .input{
+    border-color: #e9498c;
+    border-radius: 10px;
+    padding-right: 25px;
+    font-family: Poppins;
+ }
+
+ 
